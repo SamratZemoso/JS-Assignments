@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "table 1",
+        "total": 0,
+        "items": []
+    },
+    {
+        "id": 2,
+        "name":"table 2",
+        "total": 0,
+        "items": []
+    },
+    {
+        "id": 3,
+        "name":"table 3",
+        "total": 0,
+        "items": []
+    }
+]

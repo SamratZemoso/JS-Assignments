@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "spring rolls",
+        "price": 100,
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "french onion soup",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "chicken biryani",
+        "price": 300,
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "mutton biryani",
+        "price": 400,
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name": "coffee",
+        "price": 20,
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "name": "mint oreo cake",
+        "price": 500,
+        "quantity": 1
+    }
+]
