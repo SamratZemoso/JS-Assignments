@@ -14,7 +14,7 @@ const result = (x, y, functionArg) => {
     return sum;
 }
 
-// console the results 
+// console the results by calling function 
 console.log(result(10, 20, functionArg));
 
 
